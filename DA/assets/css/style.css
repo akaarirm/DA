@@ -1,0 +1,1656 @@
+
+.full {
+	position: relative;
+	width: 100%;
+}
+
+/* ------------- Home page --------------- */
+
+#header {
+	height: 140;
+}
+
+#logo_div {
+	padding-top: 30px;
+}
+
+#logo {	
+  background-image: url(../img/logo.png);
+  background-repeat: no-repeat;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-top: 82px;
+
+}
+
+#nav_bar {
+	padding-top: 30px;
+}
+
+#nav_bar ul li {
+	margin-right: 23;
+	display: inline-block;
+}
+
+#nav_top {
+  	width: 363px;
+}
+
+#nav_top ul {
+}
+
+#nav_top ul li a{
+	font-family: "MyriadPro-Light";
+	color: #00af9f;
+}
+
+#join_us {
+	margin-top: -5px;
+	background-image: url(../img/arrow.png);
+	background-repeat: no-repeat;
+	background-position: 64px 8px;
+	background-color: #00af9f;
+	border-radius: 8px 8px;
+  	margin-right: 0px !important;
+
+}
+
+#join_us a p {
+	font-family: "MyriadPro-Light";
+	color: #FFFFFF ;
+  	margin-bottom: 0px;
+  	padding-top: 6px;
+  	padding-bottom: 4px;
+  	padding-right: 37px;
+  	padding-left: 7px;
+  	margin-right: 0px;
+}
+
+
+#nav_bottom	{
+  	padding-left: 50px;
+    width: 692px;
+}
+
+#nav_bottom ul {
+}
+
+#nav_bottom ul li a{
+	font-family: "MyriadPro-Light";
+	color: #666666;
+}
+
+
+
+#hero {
+	position: relative;
+	height: 550px;
+	width: 100%;
+	background-image: url(../img/family.png) , url(../img/particles.png), url(../img/bokeh.png) ,url(../img/base_hero.png) ; 
+	background-position: -205px -90, -250 -90, 0 0, 0 0;
+}
+
+#hero_content {
+	padding-top: 175px;
+}
+
+#save_up_to {
+  	height: 74px;
+}
+
+#save_up_to p{
+	font-family: "MyriadPro-Light";
+	font-size: 60px;
+	margin: 0px;
+  	color: white;
+}
+
+#on_dental {
+  	height: 94px;
+}
+
+#on_dental p{
+	margin: 0px;
+	font-family: "MyriadPro-Light";
+	font-size: 72px;
+	color: #2d443e;
+}
+
+#reduced_fee1 ul{
+	padding-left: 15px;
+}
+
+#reduced_fee1 ul li {
+	font-family: "Myriad Pro";
+	font-size: 16px;
+	color: #2d443e;
+}
+
+
+#main_cta {
+	height: 150px;
+	background-color: #00ad9d;
+}
+
+#main_cta a{
+	text-decoration: none;
+}
+
+#new_jersey_premier {
+  	padding-top: 60px;
+}
+
+
+#new_jersey_premier p {
+  	font-size: 32px;
+  	font-family: "MyriadPro-Light";
+  	color: #ffffff;
+}
+
+#start_saving_now1 {
+	padding-top: 45px;
+	width: 297px;
+  	padding-left: 0px;
+}
+
+#start_saving_nowdiv1 {
+	width: 282px;
+	background-image: url(../img/arrow1.png);
+	background-repeat: no-repeat;
+	background-color: #ffffff;
+ 	background-position: 251px 27px;
+	border-radius: 8px 8px;
+}
+
+#start_saving_nowdiv1 p {
+	font-size: 20px;
+	font-family: "MyriadPro-Light";
+  	padding-top: 22px;
+  	padding-bottom: 22px;
+  	padding-right: 98px;
+	padding-left: 32px;
+	color: #00af9f;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+#testimonial {
+	height: 350px;
+	background-color: #eeeeee;
+}
+
+#testimonial_content {
+	padding-top: 114px;
+}
+
+#fusce_dapibus {
+	padding-left: 125px;
+  	padding-right: 125px;
+	margin-right: 0px;
+}
+
+#fusce_dapibus p {
+	text-align: center;
+	font-family: "MyriadPro-Light";
+	font-size: 35px;
+	font-weight: 300;
+	color: #999999;
+}
+
+#john_smith p{
+	font-family: "MyriadPro-Light";
+	font-size: 14px;
+	text-align: center;
+	font-weight: 600;
+	color: #999999;
+}
+
+#quotes {
+	height: 821px;
+}
+
+#our_clients {
+  	padding-top: 115px;
+}
+
+#our_clients p{
+	color: #2d443e;
+	font-size: 48px;
+	font-family: "MyriadPro-Light";
+	text-align: center;
+
+}
+
+#clients_top {
+	padding-top: 123px;
+  	padding-left: 0px;
+  	padding-right: 0px;
+}
+
+#shape1 {
+	position: absolute;
+	padding-top: 437px;
+  	padding-left: 15px;
+}
+
+#client1 {
+	position: absolute;
+  	padding-top: 345px;
+  	padding-left: 50px;
+}
+
+#nullam_dapibus1 {
+	width: 337px
+}
+
+#nullam_dapibus1 p{
+	font-size: 19px;
+	font-family: "MyriadPro-Light";
+	color: #c3c3c3;
+}
+
+#eric_family {
+	padding-top: 45px;
+}
+
+#eric_family h5{
+	font-family: "MyriadPro-Light";
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-weight: bold;
+
+}
+
+#eric_family h6{
+	font-family: "MyriadPro-Light";
+	margin-top: 0px;
+	margin-bottom: 0px;
+	color: #c3c3c3;
+}
+
+#shape2 {
+	position: absolute;
+  	padding-top: 437px;
+  	padding-left: 578px;
+}
+
+#client2 {
+	position: absolute;
+  	padding-top: 340px;
+  	padding-left: 951px;
+}
+
+#nullam_dapibus2 {
+	width: 337px;
+}
+
+#nullam_dapibus2 p{
+	font-size: 19px;
+	font-family: "MyriadPro-Light";
+	color: #c3c3c3;
+}
+
+#pet_samras {
+	padding-top: 45px;
+}
+
+#pet_samras h5{
+	font-family: "MyriadPro-Light";
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-weight: bold;
+}
+
+#pet_samras h6{
+	font-family: "MyriadPro-Light";
+	margin-top: 0px;
+	margin-bottom: 0px;
+	color: #c3c3c3;
+}
+
+#clients_bottom {
+	padding-left: 0px;
+  	padding-right: 0px;
+ 	padding-top: 86px;
+}
+
+#shape3 {
+	position: absolute;
+  	padding-top: 686px;
+  	padding-left: 15px;
+}
+
+#client3 {
+	position: absolute;
+  	padding-top: 583px;
+  	padding-left: 80px;
+}
+
+#nullam_dapibus3 {
+  	width: 337px;	
+}
+
+#nullam_dapibus3 p{
+	font-size: 19px;
+	font-family: "MyriadPro-Light";
+	color: #c3c3c3;
+}
+
+#chantelle_kros {
+	padding-top: 45px;
+}
+
+#chantelle_kros h5{
+	font-family: "MyriadPro-Light";
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-weight: bold;
+}
+
+#chantelle_kros h6{
+	font-family: "MyriadPro-Light";
+	margin-top: 0px;
+	margin-bottom: 0px;
+	color: #c3c3c3;
+}
+
+#shape4 {
+	position: absolute;
+  	padding-top: 686px;
+  	padding-left: 578px;
+}
+
+#client4 {
+	position: absolute;
+  	padding-top: 562px;
+  	padding-left: 937px;
+}
+
+#nullam_dapibus4 {
+  	width: 337px;
+}
+
+#nullam_dapibus4 p{
+	font-size: 19px;
+	font-family: "MyriadPro-Light";
+	color: #c3c3c3;
+}
+
+#arnold_kerlington {
+	padding-top: 45px;
+}
+
+#arnold_kerlington h5{
+	font-family: "MyriadPro-Light";
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-weight: bold;
+}
+
+#arnold_kerlington h6{
+	font-family: "MyriadPro-Light";
+	margin-top: 0px;
+	margin-bottom: 0px;
+	color: #c3c3c3;
+}
+
+
+
+#prefooter {
+	height: 480px;
+	background-color: #f2f3dd;
+	background-image: url(../img/logo.png);
+	background-repeat: no-repeat;
+	background-position:  495px 80px;
+}
+
+
+#you_dont_need {
+	padding-top: 199px;
+}
+
+#you_dont_need p {
+	text-align: center;
+	font-family: "MyriadPro-Light";
+	font-size: 31px;
+	color: #2d443e;
+	font-weight: 300;
+}
+
+#start_saving_now2 {
+	background-image: url(../img/arrow.png);
+	background-repeat: no-repeat;
+	background-position: 251px 30px;
+	background-color: #00af9f;
+	border-radius: 8px 8px;
+  	width: 319px;
+  	padding-left: 15px;
+  	margin-left: 40px;
+  	margin-top: 34px;
+}
+
+#start_saving_nowdiv2 p {
+	font-size: 20px;
+	font-family: "MyriadPro-Light";
+  	padding-top: 22px;
+  	padding-bottom: 22px;
+  	padding-right: 98px;
+  	padding-left: 16px;
+	color: white;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+#start_saving_nowdiv2 {
+	width: 303px;
+}
+
+#prefooter a {
+	text-decoration: none;
+}
+
+
+
+#footer {
+	height: 150px;
+}
+
+#all_rights_col {
+	padding-top: 58px;
+}
+
+#all_rights_reserved p {
+	font-family: "MyriadPro-Light";
+	font-weight: bold;
+	font-size: 18px;
+	color: #333333;
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+
+#site_by_hexnet p {
+	font-family: "MyriadPro-Light";
+	margin-top: 0px;
+	margin-bottom: 0px;
+	color: #777777;
+}
+
+#social_col {
+	padding-top: 53px;
+}
+
+#social ul {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+#social ul li {
+	display: inline-block;
+}
+
+#facebook {
+	position: absolute;
+  	margin-left: 31px;
+}
+
+#twitter {
+	position: absolute;
+	margin-left: 121px;
+}
+
+#google {
+	position: absolute;
+	margin-left: 225px;
+}
+
+
+
+/* ------------- Why page --------------- */
+
+#header2 {
+	height: 140;
+	background-image: url(../img/selector.png);
+	background-repeat: no-repeat;
+	background-position: 666px 132px;
+}
+
+#header2	ul li a{
+	text-decoration: none;
+}
+
+#your_dental {
+}
+
+#your_dental p{
+  padding-top: 0px;
+  padding-left: 16px;
+  font-size: 32px;
+  font-family: "MyriadPro-Light";
+  color: #ffffff;
+}
+
+#content {
+	height: 700px;
+	background-image: url(../img/dentist.png),url(../img/base_content.png);
+	background-repeat: no-repeat;
+	background-position: 500px 73px, 0 0;
+}
+
+#why_dental {
+}
+
+#why_dental p{
+	font-size: 48px;
+	font-family: "MyriadPro-Light";
+	color: white;
+	font-weight: 200px;
+	padding-top: 100px;
+  	padding-left: 0px;
+	margin-bottom: 0px;
+	margin-top: 0px; 
+}
+
+#dental_advantage_is {
+}
+
+#dental_advantage_is p{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-right: 0px;
+  	padding-top: 138px;
+  	padding-left: 0px;
+	color: #b6b6b6;
+	font-size: 18px;
+	font-family: "MyriadPro-Light";
+}
+
+#reduced_fee2 {
+}
+
+#reduced_fee2 ul{
+	padding-left: 28px;
+	padding-top: 41px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+#reduced_fee2 ul li {
+	font-family: "MyriadPro-Light";
+	margin-top: 0px;
+	margin-bottom: 0px;
+	color: #8da952;
+
+}
+
+#under {
+	position: relative;
+}
+
+#under p{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family: "MyriadPro-Light";
+	font-size: 16px;
+	padding-left: 20px;
+	color: #999999;
+}
+
+#how_muchdiv {
+	width: 320px;
+  	margin-top: 35px;
+  	margin-left: 15px;
+}
+
+#how_muchdiv a{
+	text-decoration: none;
+}
+
+#how_much {
+  	width: 296px;
+  	height: 71px;
+	padding-top: 25px;
+	padding-left: 63px;
+	padding-bottom: 25px;
+	padding-right: 38px;
+	border: 1px solid #00af9f;
+	border-radius: 8px 8px;
+	background-image: url(../img/Rectangle_1_1.png),url(../img/Rectangle_1_2.png),url(../img/Rectangle_1_3.png),url(../img/Rectangle_1_4.png),url(../img/Rectangle_1_5.png),url(../img/Rectangle_1_6.png),url(../img/Rectangle_1_7.png);
+	background-position: 25px 19px,28px 30px,39px 31px,34px 30px,28px 36px,34px 36px,25px 25px;
+	background-repeat: no-repeat;
+}
+
+#how_much p{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family: "MyriadPro-Light";
+	color: #00af9f;
+}
+
+#testimonial2 {
+	position: relative;
+	height: 350px;
+	width: 100%;
+	background-image: url(../img/ellipse1.png),url(../img/ellipse2.png),url(../img/ellipse1.png),url(../img/ellipse1.png),url(../img/ellipse1.png);
+	background-position: 0 0,0 0,0 0,0 0,0 0;
+	background-color: #eeeeee;
+}
+
+
+/* ------------- Contact Us --------------- */
+
+#header3 {
+	height: 140px;
+}
+
+#contact a{
+	text-decoration: underline !important;
+}
+
+#content2 {
+	height: 700px;
+	background-image:url(../img/base_content.png);
+	background-repeat: no-repeat;
+	background-position: 0 0;
+}
+
+#we_offer {
+}
+
+#we_offer p{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-right: 0px;
+	color: #b6b6b6;
+	font-size: 18px;
+	font-family: "MyriadPro-Light";
+}
+
+#content_left {
+	  padding-top: 165px;
+}
+
+#content_left_bottom {
+	padding-top: 27px;
+}
+
+
+#content_left_bottom_left {
+	padding-top: 24px;
+}
+
+#content_left_bottom_left {
+	background-image: url(../img/location.png), url(../img/map_location.png), url(../img/map.png);
+	background-position: 88px 47px,67px 34px,0px 0px;
+	background-repeat: no-repeat;
+  	padding-top: 139px;
+  	padding-right: 0px;
+  	border: 1px solid #00af9f;
+	border-radius: 8px 8px;
+	width: 208px;
+}
+
+#content_left_bottom_right {
+	padding-left: 35px;
+  	padding-top: 12px;
+}
+
+#content_left_bottom_right p{
+	color: #b6b6b6;
+	font-size: 18px;
+	font-family: "MyriadPro-Light";
+}
+
+#content_right {
+	  padding-top: 165px;
+}
+
+#form {
+}
+
+#name {
+	width: 536px;
+	height: 49px;
+	border-radius: 8px 8px;
+	border: 1px solid #00af9f;
+	margin-bottom: 15px;
+	padding-left: 15px;
+}
+
+#email {
+	width: 536px;
+	height: 49px;
+	border-radius: 8px 8px;
+	border: 1px solid #00af9f;
+	margin-bottom: 15px;
+	padding-left: 15px;
+}
+
+#message {
+	width: 536px;
+	height: 115px;
+	border-radius: 8px 8px;
+	border: 1px solid #00af9f;
+	margin-bottom: 15px;
+	padding-left: 15px;
+	padding-bottom: 96px;
+	padding-top: 17px;
+	
+}
+
+#get_in_touch {
+	width: 536px;
+	height: 49px;
+	border-radius: 8px 8px;
+	background-color: #00af9f;
+	border: 1px solid #00af9f;
+	color: white;
+	font-size: 18px;
+	padding-right: 400px;
+}
+
+/* ------------- Pricing --------------- */
+
+
+#header4 {
+	height: 140;
+	background-image: url(../img/selector_pricing.png);
+	background-repeat: no-repeat;
+	background-position: 1187px 132px;
+}
+
+#header4	ul li a{
+	text-decoration: none;
+}
+
+#Pricing p{
+	font-size: 48px;
+	font-family: "MyriadPro-Light";
+	color: white;
+	font-weight: 200px;
+	padding-top: 100px;
+	padding-left: 36px;
+	margin-bottom: 0px;
+	margin-top: 0px; 
+}
+
+#content4 {
+	height: 850px;
+	background-image:url(../img/base_content.png);
+	background-repeat: no-repeat;
+	background-position: 0 0;
+}
+
+#choose_a_plan {
+	width: 477px;
+}
+
+#choose_a_plan p{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-right: 0px;
+  	padding-top: 110px;
+	padding-left: 40px;
+	color: #b6b6b6;
+	font-size: 18px;
+	font-family: "MyriadPro-Light";
+}
+
+#packs {
+	padding-top: 15px;
+}
+
+#singles {
+	padding-left: 0px;
+  	padding-right: 0px;
+  	padding-top: 13px;
+	width: 264px;
+}
+
+#singles_up{
+	height: 125px;
+	background-color: #f0efef;
+	border: 1px solid #999999;
+	border-radius: 8px 0px 0px 0px;
+}
+
+#singles_down {
+	height: 355px;
+	border: 1px solid #999999;
+	border-radius: 0px 0px 0px 8px;
+}
+
+
+#single_parent {
+	padding-left: 0px;
+  	padding-right: 0px;
+  	padding-top: 13px;
+	width: 266px;
+}
+
+#single_parent_up {
+	height: 125px;
+	background-color: #f0efef;
+	border: 1px solid #999999;
+	border-radius: 0px 0px;
+}
+
+#single_parent_down {
+	height: 355px;
+	border: 1px solid #999999;
+	border-radius: 0px 0px;
+}
+
+#couples {
+	padding-left: 0px;
+  	padding-right: 0px;
+	width: 291px;
+	height: 510px;
+	border: 2px solid #00af9f;
+	border-radius: 8px 8px;
+	background-color: #00af9f;
+}
+
+#families {
+	padding-left: 0px;
+  	padding-right: 0px;
+  	padding-top: 13px;
+	width: 255px;
+}
+
+#families_up {
+	height: 125px;
+	background-color: #f0efef;
+	border: 1px solid #999999;
+	border-radius: 0px 8px 0px 0px;
+}
+
+#families_down {
+	height: 355px;
+	border: 1px solid #999999;
+	border-radius: 0px 0px 8px 0px;
+}
+
+#title_singles {
+  	padding-top: 26px;
+  	padding-left: 80px;
+}
+
+#title_singles p{
+	font-size: 32px;
+	font-family: "MyriadPro-Light";
+	margin-top: 0px;
+	margin-bottom: 0px;
+	color: #333333;
+}
+
+#title_single_parent {
+	padding-left: 46px;
+  	padding-top: 15px;
+}
+
+#title_single_parent p{
+	font-size: 32px;
+	font-family: "MyriadPro-Light";
+	margin-top: 0px;
+	margin-bottom: 0px;
+	color: #333333;
+  }
+
+#title_families {
+	font-size: 32px;
+	font-family: "MyriadPro-Light";
+	margin-top: 0px;
+	margin-bottom: 0px;
+	color: #333333;
+  	height: 45px;
+  	margin-left: 57px;
+  	margin-top: 15px;
+}
+
+#adult_child {
+	padding-left: 63px;
+}
+
+#adult_child p{
+	font-size: 18px;
+	font-family: "MyriadPro-Light";
+	margin-top: 0px;
+	margin-bottom: 0px;
+	color: #999999;
+}
+
+#prices {
+	padding-left: 3px;
+}
+
+#prices p{
+	font-family: "MyriadPro-Light";
+	font-size: 15px;
+	color: #00af9f;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+#prices_singles {
+  	padding-left: 92px;
+}
+
+#prices_singles p{
+	font-family: "MyriadPro-Light";
+	font-size: 15px;
+	color: #00af9f;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+#from {
+	padding-right: 3px;
+	margin-left: 65px;
+}
+
+#from p{
+	font-size: 15px;
+	font-family: "MyriadPro-Light";
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+#all_benefits {
+  	padding-top: 62px;
+  	padding-left: 54px;
+}
+
+#all_benefits p{
+	font-family: "MyriadPro-Light";
+	font-size: 18px;
+	color: #999999;
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+
+#adult {
+	padding-left: 86px;
+}
+
+#adult p{
+	font-family: "MyriadPro-Light";
+	font-size: 24px;
+	color: #999999; 
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+#childs {
+  	padding-left: 57px;
+  	padding-top: 40px;
+}
+
+#child {
+	padding-right: 3px;
+	width: 81px;
+}
+
+#child p{
+	font-family: "MyriadPro-Light";
+	font-size: 18px;
+	font-weight: 600;
+	display: inline;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+#price_year {
+	padding-left: 3px;
+}
+
+#price_year p{
+	font-weight: 400;
+	font-family: "MyriadPro-Light";
+	font-size: 18px;
+	color: #999999; 
+	display: inline;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+#start_now {
+	width: 209px;
+	background-image: url(../img/arrow_pricing.png);
+  	background-repeat: no-repeat;
+  	background-position: 159px 26px;
+}
+
+#start_now a p{
+	font-size: 18px;
+	font-family: "MyriadPro-Light";
+	color: #999999;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	border: 2px solid #333333;
+	border-radius: 8px 8px;
+  	padding-left: 32px;
+  	padding-right: 12px;
+  	width: 210px;
+  	height: 64px;
+  	padding-top: 19px;
+}
+
+#free {
+	font-size: 18px;
+	font-family: "MyriadPro-Light";
+	color: #333333;
+	display: inline;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-right: 3px;
+	margin-left: 51px;
+}
+
+#feature {
+  	font-family: "MyriadPro-Light";
+	font-size: 18px;
+	color: #999999;
+	display: inline;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	height: 30px;
+	padding-left: 15px;
+}
+
+#title_couples {
+	font-size: 32px;
+	font-family: "MyriadPro-Light";
+	color: white;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-left: 79px;
+  	padding-top: 40px;
+}
+
+#prices_couples {
+	font-family: "MyriadPro-Light";
+	font-size: 15px;
+	color: white;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-left: 99px;
+}
+
+#free_couples {
+	font-size: 18px;
+	font-family: "MyriadPro-Light";
+	color: white;
+	display: inline;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-right: 3px;
+	margin-left: 27px;
+}
+
+#x2_couples {
+	font-size: 18px;
+	font-family: "MyriadPro-Light";
+	color: white;
+	display: inline;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-right: 11px;
+	margin-left: 35px;
+}
+
+#unlimited_couples {
+	font-size: 18px;
+	font-family: "MyriadPro-Light";
+	color: white;
+	display: inline;
+	margin-top: 0px;
+	margin-bottom: 0px;
+  	padding-right: 15px;
+  	margin-left: 3px;
+}
+
+#frees_couples {
+  	padding-left: 49px;
+  	padding-top: 74px;
+}
+
+#feature_couples {
+	font-family: "MyriadPro-Light";
+	font-size: 18px;
+	color: #63e2d6;
+	display: inline;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	height: 30px;
+	padding-left: 15px;
+}
+
+#start_now_couples2 a p{
+	font-size: 18px;
+	font-family: "MyriadPro-Light";
+	color: #00af9f;
+	font-weight: 2000px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+  	width: 76px;
+  	background-color: white;
+  	border-radius: 8px 8px;
+  	border: 2px solid white;
+  	background-image: url(../img/arrow1.png);
+  	background-repeat: no-repeat;
+  	background-position: 159px 24px;
+  	padding-left: 32px;
+  	padding-right: 12px;
+  	width: 210px;
+  	height: 64px;
+  	padding-top: 19px;
+}
+
+#frees {
+  	padding-top: 64px;
+}
+
+#unlimited {
+	font-size: 18px;
+	font-family: "MyriadPro-Light";
+	color: #333333;
+	display: inline;
+	margin-top: 0px;
+	margin-bottom: 0px;
+  	padding-right: 15px;
+  	margin-left: 30px;
+}
+
+#x2 {
+  	font-size: 18px;
+	font-family: "MyriadPro-Light";
+	color: #333333;
+	display: inline;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-right: 11px;
+	margin-left: 58px;
+}
+
+#start_now_singles {
+	width: 239px;
+  	height: 67px;
+  	padding-top: 150px;
+  	padding-left: 26px;
+}
+
+#start_now_singles a{
+	text-decoration: none;
+}
+
+#start_now_single_parent {
+	width: 239px;
+  	height: 67px;
+  	padding-top: 36px;
+}
+
+#start_now_single_parent a{
+	text-decoration: none;
+}
+
+#start_now_couples {
+	width: 240px;
+	padding-top: 34px;
+  	padding-left: 39px;
+}
+
+#start_now_couples a {
+	text-decoration: none;
+}
+
+#start_now_families {
+	width: 239px;
+  	height: 67px;
+  	padding-top: 33px;
+}
+
+#start_now_families a{
+	text-decoration: none;
+}
+
+
+/* ------------- FAQ --------------- */
+/*
+#header5 {
+	position: relative;
+	height: 140;
+	width: 100%;
+	background-image: url(../img/selector_faq.png);
+	background-repeat: no-repeat;
+	background-position: 1159px 132px;
+}
+
+#header5 ul li a{
+	text-decoration: none;
+}
+
+#content5 {
+	position: relative;
+	height: 1172px;
+	background-image:url(../img/q_1.png),url(../img/q_3.png),url(../img/q_4.png),url(../img/q_5.png),url(../img/confused.png),url(../img/q_2.png),url(../img/base_content.png);
+	background-repeat: no-repeat;
+	background-position: 1025px 600,700 571px,1200 400,165px 64px,-250px -198px,598px 229px,0px 0;
+}
+
+#faq {
+	position: relative;
+}
+
+#faq p{
+	font-size: 48px;
+	font-family: "MyriadPro-Light";
+	color: white;
+	font-weight: 200px;
+	padding-top: 100px;
+	padding-left: 36px;
+	margin-bottom: 0px;
+	margin-top: 0px; 
+}
+
+#q_a {
+	height: 595px;
+	width: 616px;
+	margin-top: 170px;
+  	margin-left: 35px;
+}
+
+#question {
+	position: relative;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	font-size: 18px;
+	color: #27ada0;
+	font-family: "MyriadPro-Light";
+}
+
+#answer {
+	position: relative;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	font-size: 18px;
+	color: #999999;
+	font-family: "MyriadPro-Light";
+}
+
+#if_you_still {
+	padding-top: 53px;
+  	padding-bottom: 53px;
+  	margin-top: 97px;
+  	padding-left: 35px;
+  	background-color: #ececd1;
+  	background-image: url(../img/arrow_faq.png);
+  	background-repeat: no-repeat;
+  	background-position: 257px 83px;
+}
+
+#if_you_still p{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-size: 18px;
+	font-family: "MyriadPro-Light";
+}
+
+#if_you_still p a {
+	color: black;
+	font-weight: bold;
+}
+
+*/
+
+
+/* ------------- Join Us --------------- */
+
+
+
+#content6 {
+	height: 1319px;
+	background-image:url(../img/lady_joinus.png), url(../img/base_content.png);
+	background-repeat: no-repeat;
+	background-position: -197px -106px, 0 0;
+}
+
+#joinus_by_col {
+	padding-top: 132px;
+}
+
+#join_by_credit p {
+	font-family: "MYRIADPRO-BOLD";
+	font-size: 18px;
+	color: #00af9f;
+}
+
+#join_by_text {
+	padding-left: 31px;
+}
+
+#join_by_text p {
+	font-family: "MYRIADPRO-REGULAR";
+	font-size: 15px;
+	color: #999999;
+}
+
+#basic_infos_col {
+	padding-top: 132px;
+}
+
+#basic_infos_titles {
+	padding-left: 0px;
+}
+
+#basic_infos_titles p{
+	font-family: "MYRIADPRO-REGULAR";
+	font-size: 30px;
+	color: #00af9f;	
+}
+
+.payment {
+	padding-top: 50px;
+}
+
+#single_payment_list {
+	height: 49px;
+	border-radius: 8px 8px;
+	border: 2px solid #00af9f;
+	-webkit-appearance: none;
+	font-family: "MyriadPro-Light";
+	font-size: 18px;
+	color: #999999;
+	background-image: url(../img/chevron.png);
+	background-repeat: no-repeat;
+	background-position: 504px 18px;
+	margin-bottom: 10px;
+}
+
+#form_inputs {
+	height: 49px;
+	border-radius: 8px 8px;
+	border: 2px solid #00af9f;
+	font-family: "MyriadPro-Light";
+	font-size: 18px;
+	color: #999999;
+	margin-bottom: 17px;
+}
+
+.city {
+	margin-right: 22px;
+}
+
+#region_basic {
+	height: 49px;
+	border-radius: 8px 8px;
+	border: 2px solid #00af9f;
+	-webkit-appearance: none;
+	font-family: "MyriadPro-Semibold";
+	font-size: 18px;
+	color: #999999;
+	background-image: url(../img/chevron.png);
+	background-repeat: no-repeat;
+	background-position: 56px 16px;
+	margin-bottom: 10px;
+	margin-right: 22px;
+}
+
+.credit_card {
+	background-image: url(../img/visa.png);
+	background-repeat: no-repeat;
+	background-position: 497px 11px;
+}
+
+#exp_payment {
+	height: 49px;
+	border-radius: 8px 8px;
+	border: 2px solid #00af9f;
+	-webkit-appearance: none;
+	font-family: "MyriadPro-Light";
+	font-size: 18px;
+	color: #999999;
+	background-image: url(../img/chevron.png);
+	background-repeat: no-repeat;
+	background-position: 106px 16px;
+	margin-bottom: 10px;
+	margin-right: 22px;
+}
+
+.buttons_text {
+	font-family: "MyriadPro-Light";
+	font-size: 18px;
+	color: white;
+	height: 49px;
+	border-radius: 8px 8px;
+	border: 0px;
+}
+
+#print_this_payment {
+	background-color: #686666;
+  	margin-right: 43px;
+  	padding-right: 55px;
+  	background-image: url(../img/print_icon.png);
+	background-repeat: no-repeat;
+	background-position: 122px 10px;
+
+}
+
+#sign_me_up_payment {
+	background-color: #00af9f;
+	padding-right: 140px;
+}
+
+/* ------------- How Much --------------- */
+
+#header6 {
+	height: 140;
+	background-image: url(../img/selector_howmuch.png);
+	background-repeat: no-repeat;
+	background-position: 832px 132px;
+}
+
+#content7 {
+	height: 1319px;
+	background-image:url(../img/dollar_1.png),url(../img/dollar_2.png),url(../img/dollar_3.png), url(../img/base_content.png);
+	background-repeat: no-repeat;
+	background-position: 975px 339px,700 286px,903px 247px, 0 0;
+}
+
+#this_is_text {
+	padding-left: 31px;
+}
+
+#this_is_text p {
+	font-family: "MYRIADPRO-REGULAR";
+	font-size: 15px;
+	color: #999999;
+}
+
+#this_is_credit p {
+	font-family: "MYRIADPRO-BOLD";
+	font-size: 18px;
+	color: #00af9f;
+}
+
+#this_is_col {
+	padding-top: 132px;
+}
+
+
+#fee_schedule_title p {
+	font-family: "MYRIADPRO-REGULAR";
+	font-size: 30px;
+	color: #00af9f;	
+}
+
+#fee_schedule_col {
+	padding-top: 452px;
+}
+
+#fee_schedule_text p {
+	font-family: "MYRIADPRO-REGULAR";
+	font-size: 15px;
+	color: #999999;
+}
+
+#procedure_table{
+	padding-left: 0px;
+  	padding-right: 0px;
+  	margin-left: 26px;
+}
+
+#procedure {
+	padding-left: 0px;
+	padding-right: 0px;	
+}
+
+#procedure_title {
+	padding-top: 26px;
+  	padding-left: 80px;
+}
+
+#procedure_title p{
+	font-family: "MYRIADPRO-REGULAR";
+	font-size: 15px;
+	color: #999999;
+}
+
+#procedure_up {
+	height: 74px;
+	background-color: #f0efef;
+	border-top: 1px solid #999999;
+	border-left: 1px solid #999999;
+	border-radius: 5px 0px 0px 0px;
+}
+
+#procedure_down {
+	border-top: 1px solid #999999;
+	border-bottom: 1px solid #999999;
+	border-left: 1px solid #999999;
+	border-radius: 0px 0px 0px 5px;
+  	padding-left: 23px;
+}
+
+#procedure_down p{
+	font-family: "MyriadPro-Light";
+	font-size: 16px;
+	color: #999999;
+}
+
+#without {
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+#without_title {
+	padding-top: 18px;
+  	padding-left: 10px;
+}
+
+#without_title p{
+	font-family: "MYRIADPRO-REGULAR";
+	font-size: 15px;
+	color: #999999;	
+	margin-bottom: 0px;
+	width: 115px;
+}
+
+#without_up {
+	height: 74px;
+	background-color: #f0efef;
+	border-top: 1px solid #999999;
+	border-left: 1px solid #999999;
+	border-radius: 0px 0px 0px 0px;
+}
+
+#without_down {
+	border-top: 1px solid #999999;
+	border-bottom: 1px solid #999999;
+	border-left: 1px solid #999999;
+	border-radius: 0px 0px 0px 0px;
+	padding-left: 48px;
+}
+
+#without_down p{
+	font-family: "MyriadPro-Light";
+	font-size: 16px;
+	color: #999999;
+}
+
+#with {
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+#with_title p{
+	font-family: "MYRIADPRO-REGULAR";
+	font-size: 15px;
+	color: #999999;
+	margin-bottom: 0px;
+	width: 115px;
+}
+
+#with_title {
+	padding-top: 18px;
+  	padding-left: 10px;
+}
+
+#with_up {
+	height: 74px;
+	background-color: #f0efef;
+	border-top: 1px solid #999999;
+	border-left: 1px solid #999999;
+	border-right: 1px solid #999999;
+	border-radius: 0px 5px 0px 0px;
+}
+
+#with_down {
+	border-top: 1px solid #999999;
+	border-bottom: 1px solid #999999;
+	border-left: 1px solid #999999;
+	border-right: 1px solid #999999;
+	border-radius: 0px 0px 5px 0px;	
+  	padding-left: 52px;
+}
+
+#with_down p{
+	font-family: "MyriadPro-Light";
+	font-size: 16px;
+	color: #999999;
+}
+
+#info {
+	padding-left: 26px;
+  	padding-right: 19px;
+  	padding-top: 38px;
+}
+
+#info p{
+	font-family: "MyriadPro-Light";
+	font-size: 15px;
+	color: #999999;
+	background-color: #fbf5cc;
+	border: 1px solid #999999;
+  	padding-left: 50px;
+  	padding-top: 9px;
+  	padding-bottom: 9px;
+  	background-image: url(../img/info.png);
+  	background-repeat: no-repeat;
+  	background-position: 21px 9px;
+}
+
+
+@font-face {
+    font-family: "Myriad Pro";
+    src: url(MyriadPro-Semibold.otf);
+    src: url(MyriadPro-Light.OTF);
+    src: url(MYRIADPRO-REGULAR.OTF);
+    src: url(MYRIADPRO-COND.OTF);
+    src: url(MYRIADPRO-CONDIT.OTF);
+    src: url(MYRIADPRO-BOLDIT.OTF);
+    src: url(MYRIADPRO-BOLDCONDIT.OTF);
+    src: url(MYRIADPRO-BOLDCOND.OTF);
+    src: url(MYRIADPRO-BOLD.OTF);
+}
+
